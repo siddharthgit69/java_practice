@@ -1,9 +1,9 @@
-Java Practice 
+Java Practice ☕
 
-A collection of Java programs and coding exercises created while learning and practicing Java. This repository documents my progress, strengthens my programming fundamentals, and helps me develop problem-solving skills.
+A collection of Java programs and coding exercises created while learning and practicing Java. This repository documents my progress and helps me improve my programming and problem-solving skills.
 
 Topics Covered
-Java fundamentals, variables, and data types
+Java fundamentals and data types
 Conditional statements and loops
 Methods, arrays, and strings
 Object-Oriented Programming (OOP)
@@ -15,16 +15,16 @@ Editor: Visual Studio Code
 Version Control: Git and GitHub
 Running the Programs
 
-Make sure the Java Development Kit (JDK) is installed. Open a terminal in the project folder and run:
+Install the Java Development Kit (JDK), then compile and run a program:
 
 javac FileName.java
 java FileName
 
 
-Replace FileName with the name of the Java file and its corresponding class name.
+Replace FileName with your Java file's name.
 
 Purpose
 
-This repository serves as a record of my Java learning journey, with a focus on consistent practice, understanding core concepts, and writing better code over time.
+This repository tracks my Java learning journey through consistent practice and hands-on coding.
 
-Learn • Practice • Improve 
+Learn • Practice • Improve 🚀
