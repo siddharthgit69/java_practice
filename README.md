@@ -1,4 +1,4 @@
-Java Practice ☕
+Java Practice 
 
 A collection of Java programs and coding exercises created while learning and practicing Java. This repository documents my progress and helps me improve my programming and problem-solving skills.
 
@@ -27,4 +27,4 @@ Purpose
 
 This repository tracks my Java learning journey through consistent practice and hands-on coding.
 
-Learn • Practice • Improve 🚀
+Learn • Practice • Improve 
