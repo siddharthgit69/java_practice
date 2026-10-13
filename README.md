@@ -17,11 +17,10 @@ Running the Programs
 
 Install the Java Development Kit (JDK), then compile and run a program:
 
-javac FileName.java
-java FileName
+javac test.java
+java test
 
 
-Replace FileName with your Java file's name.
 
 Purpose
 
