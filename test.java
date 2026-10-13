@@ -1,18 +1,17 @@
 class test{
-    int age;
-    String name;
-    String school;
+    int num1;
+    int num2;
 
-    void display(){
-        System.out.println("Age: "+age);
-        System.out.println("Name: "+name);
-        System.out.println("School: "+school);
+    int sum(){
+       int sum = num1 + num2;
+       System.out.println("Sum = "+sum);
+       return sum;
     }
-    public static void main(String args[]){
+
+    public static void main (String[] args){
         test s1 = new test();
-        s1.age = 19;
-        s1.name = "JAVA";
-        s1.school = "JDK";
-        s1.display();
+        s1.num1 = 12;
+        s1.num2 = 24;
+        s1.sum();
     }
 }
